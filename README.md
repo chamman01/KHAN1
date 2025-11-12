@@ -42,7 +42,7 @@ Our YouTube channel regularly publishes new educational videos — weekly lesson
 
 ## 🛠️ ویب سائٹ / Website
 
-🌐 [Visit QURTUBA ACADEMY Website](https://yourname.github.io)
+🌐 [Visit QURTUBA ACADEMY Website]
 
 **اردو:**  
 ویب سائٹ پر مختلف مضامین کے ویڈیوز، نوٹس، اور مختصر خلاصے دستیاب ہیں۔  
@@ -67,9 +67,9 @@ Students can learn anytime, anywhere — free of cost!
 
 ## 📬 رابطہ / Contact
 
-📧 Email: **your@email.com**  
+📧 Email: **qurtubaacademy1@gmail.com**  
 📱 YouTube: [QURTUBA ACADEMY](https://www.youtube.com/@QurtubaAcademy11)  
-🌐 Website: [https://yourname.github.io](https://yourname.github.io)
+🌐 Website:
 
 ---
 
@@ -96,3 +96,4 @@ Your ideas and support are always welcome!
 **قُرطبہ اکیڈمی (QURTUBA ACADEMY)**  
 “علم روشنی ہے — علم بانٹنا عبادت ہے۔”  
 > *"Knowledge is light — sharing knowledge is worship."*
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b79eb9e2-f2df-46f6-8629-dc6890a6442e" />
